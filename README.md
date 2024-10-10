@@ -1,4 +1,4 @@
-# 💫🦇 About Me🦇:
+# 💫🦇 About Me:
 👋 Hi, I’m Munteanu Iulian<br>👀 I’m interested in front-end developing but also a little back-end.<br>🌱 I’m currently learning HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps<br>💞️ I want to collaborate for a job in Web Development.<br>💼 Design engineer reoriented towards web development.
 
 
