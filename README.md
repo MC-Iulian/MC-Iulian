@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Munteanu Iulian<br>👀 I'm interested in challenging my hobby into a career in web development.<br>🌱 I’m currently learning HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps<br>💞️ I want to collaborate for a job in Front-End Web Development.<br>💼 Mechanical design engineer reoriented towards web development.
 
-<img align="right" alt="Coding" width="40" src="https://github.com/MC-Iulian/myphotos/blob/main/unnamed.jpg">
+<img align="right" alt="Coding" width="200" src="https://github.com/MC-Iulian/myphotos/blob/main/unnamed.jpg">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iulian-cosmin-munteanu-513159277) 
