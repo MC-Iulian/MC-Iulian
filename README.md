@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image.png)
+![MasterHead](./github-header-image.png)0
 
 # 💫 About Me:
 👋 Hi, I’m Munteanu Iulian<br>👀 I'm interested in challenging my hobby into a career in web development.<br>🌱 I’m currently learning HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps<br>💞️ I want to collaborate for a job in Front-End Web Development.<br>💼 Mechanical design engineer reoriented towards web development.
